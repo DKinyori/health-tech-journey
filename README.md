@@ -10,8 +10,8 @@ This repository documents my learning journey transitioning from a Medical Docto
 
 ## Learning Path
 
-- [x] GitHub setup and documentation (Started: May 15, 2025)
-- [x] Python fundamentals (CS50P) (Started: May 1, 2025)
+- [x] GitHub setup and documentation (Started: May 7, 2025)
+- [x] Python fundamentals (CS50P) (Started: May 7, 2025)
 - [ ] Data analysis with Python (pandas)
 - [ ] Data visualization
 - [ ] Healthcare data structures and standards
